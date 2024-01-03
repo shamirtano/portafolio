@@ -54,6 +54,8 @@ Para este proyecto se utilizó el framework Laravel, el cual es un framework de 
 
 ### Página principal
 
+![Alt text](image.png)
+
 ![Página principal](https://raw.githubusercontent.com/shamirtano/portafolio/master/public/images/screenshots/home.png)
 
 ## License
